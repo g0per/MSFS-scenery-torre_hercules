@@ -1,5 +1,5 @@
 # MSFS-scenery-torre_hercules
-3D model of the Torre de Hércules lighthouse in A Coruña (Spain) for Microsoft Flight Simulator 2020.
+3D model of the [Torre de Hércules lighthouse in A Coruña (Spain)](https://es.wikipedia.org/wiki/Torre_de_H%C3%A9rcules) for Microsoft Flight Simulator 2020.
 
 Replaces stock autogen building on site.
 
