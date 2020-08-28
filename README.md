@@ -4,7 +4,7 @@
 Replaces stock autogen building on site.
 
 ## Installation
-Extract the **torre-hercules** folder inside the zipfile to the Community folder in your MSFS2020 install directory. For a default directory installation it should look like this:
+Extract the **torre_hercules** folder inside the zipfile to the Community folder in your MSFS2020 install directory. For a default directory installation it should look like this:
 
     C:\Users\[YOURUSERNAME]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community\torre_hercules\
     
