@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "torre_hercules",
+  "manufacturer": "",
+  "creator": "g0per",
+  "package_version": "0.1.0",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "VERSION 0.1.0 RELEASED JANUARY 1, 0\\nFaro Torre de Hércules, A Coruña\nInitial Release 20200828",
+      "OlderHistory": ""
+    }
+  }
+}

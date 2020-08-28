@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: torre_hercules-->
+	<SceneryObject lat="43.38599750927362" lon="-8.40657362816451" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-177.000008" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FAF86721-B296-4C47-CBF9-B4F6D914B810}" scale="1.000000"/>
+	</SceneryObject>
+</FSData>
+

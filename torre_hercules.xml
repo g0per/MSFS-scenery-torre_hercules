@@ -1,0 +1,8 @@
+<Project Version="2" Name="torre_hercules" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\torre_hercules.xml</Package>
+	</Packages>
+</Project>
+

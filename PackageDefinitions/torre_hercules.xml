@@ -1,0 +1,31 @@
+<AssetPackage Name="torre_hercules" ReleaseNotes="PackageDefinitions\torre_hercules\ReleaseNotes.xml" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>torre_hercules</Title>
+		<Manufacturer/>
+		<Creator>g0per</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\torre_hercules\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\torre_hercules\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="faroscene">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scene\</AssetDir>
+			<OutputDir>scenery/world/scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
